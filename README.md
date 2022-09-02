@@ -10,10 +10,10 @@ You have a dataset (internship_train.csv) that contains 53 anonymized features a
 * requirements.txt file.
 
 ## Analylis
-Analysis reaserch of data are located in file `Analysis_of_Data.ipynb`.
+Analysis reaserch of data are located in file [Analysis_of_Data.ipynb](Analysis_of_Data.ipynb).
 
 ## Modeling
-Modeling are located on file `Modeling Jupyter.ipynb`
+Modeling are located on file [Modeling Jupyter.ipynb](Modeling.ipynb)
 
 ## Data
 Data is located in `data_files` folder. Includes:
